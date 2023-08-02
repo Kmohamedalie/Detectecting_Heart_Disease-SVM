@@ -34,7 +34,7 @@
       names of the principal investigator responsible for the data collection
       at each institution.  They would be:
 
-       1. Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
+       1. Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D. 
        2. University Hospital, Zurich, Switzerland: William Steinbrunn, M.D.
        3. University Hospital, Basel, Switzerland: Matthias Pfisterer, M.D.
        4. V.A. Medical Center, Long Beach and Cleveland Clinic Foundation:
@@ -49,10 +49,10 @@
 1. Title: Heart Disease Databases
 
 2. Source Information:
-   (a) Creators: 
-       -- 1. Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
-       -- 2. University Hospital, Zurich, Switzerland: William Steinbrunn, M.D.
-       -- 3. University Hospital, Basel, Switzerland: Matthias Pfisterer, M.D.
+   (a) Creators: <br>
+       -- 1. Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D. <br>
+       -- 2. University Hospital, Zurich, Switzerland: William Steinbrunn, M.D. <br>
+       -- 3. University Hospital, Basel, Switzerland: Matthias Pfisterer, M.D. <br>
        -- 4. V.A. Medical Center, Long Beach and Cleveland Clinic Foundation:
              Robert Detrano, M.D., Ph.D.
    (b) Donor: David W. Aha (aha@ics.uci.edu) (714) 856-8779   
