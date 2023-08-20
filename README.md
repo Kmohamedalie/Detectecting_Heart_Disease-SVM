@@ -5,10 +5,23 @@
 ### **Dataset available on:** [UCI Machine Learning Heart Disease](https://archive.ics.uci.edu/dataset/45/heart+disease) , [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 
 **Developers' Guide:** [Amazon Machine Learning](https://docs.aws.amazon.com/pdfs/machine-learning/latest/dg/machinelearning-dg.pdf#cross-validation)                                             
-**Link to the notebook:** [Heart-Disease-SVM](https://github.com/Kmohamedalie/Detectecting_Heart_Disease-SVM/blob/master/Notebook/Heart_Disease_SVM.ipynb)
+**Completed notebook:** [Heart-Disease-SVM](https://github.com/Kmohamedalie/Detectecting_Heart_Disease-SVM/blob/master/Notebook/Heart_Disease_SVM.ipynb)
+
+
+**Metrics achieved:**
+
+| Algorithm | Precision | Recall | F1-score | Accuracy |
+|-----------|-----------|--------|----------|----------|
+| Support Vector Machine (SVM)  | 100%       |  100%    | 100%       | 100%     |
 
 
 ![image](https://github.com/Kmohamedalie/Detectecting_Heart_Disease-SVM/assets/63104472/d37d60ff-f208-4626-85c9-9db85582b83f)
+
+
+
+
+## **Additional Information:**
+
 
 ### **Publication Request:**
    >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
